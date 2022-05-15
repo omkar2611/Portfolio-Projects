@@ -5,8 +5,8 @@ The Project has the following Folder Structure:
 
 #### Portfolio Projects
 <b><i>
-<li>Excel</li>
-<li>Python Programming</li>
-<li>SQL Projects</li>
-<li>Tableau Projects</li>
+* [Excel](https://github.com/omkar2611/Portfolio-Projects/tree/main/Excel)
+* [Python Programming](https://github.com/omkar2611/Portfolio-Projects/tree/main/Python%20Programming)
+* [SQL Projects](https://github.com/omkar2611/Portfolio-Projects/tree/main/SQL%20Projects)
+* [Tableau Projects](https://github.com/omkar2611/Portfolio-Projects/tree/main/Tableau%20Projects)
   </i></b>
